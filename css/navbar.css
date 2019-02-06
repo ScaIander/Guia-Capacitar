@@ -25,6 +25,11 @@ body{
 
 }
 
+li:hover{
+
+    color:black;
+}
+
 .endbar{
     
     width: 100%;
@@ -62,6 +67,7 @@ list-style-type: none;
 font-size: 1.3em; 
 margin: 1.2em;
 text-align: center;
+transition: 0.5s;
 
 
 
