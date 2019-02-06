@@ -162,6 +162,35 @@
         font-size: 2em;
         text-align: center;
         font-weight: 100;
+        padding-top: 90px;
+        
+        
+        
+
+    }
+
+    .barraazul h2{
+
+        
+        color: #5dd9c0;
+        font-family: "Candara";
+        font-size: 2em;
+        text-align: center;
+        font-weight: 100;
+        padding-top: 20px;
+        
+    }
+
+    .barraazul h3{
+
+        
+        color: #cec075;
+        font-family: "Candara";
+        font-size: 2em;
+        text-align: center;
+        font-weight: 100;
+        padding-top: 20px;
+        
         
         
 
@@ -177,3 +206,18 @@
 
     }
 
+    .botaocontato{
+
+        background-color:#5dd9c0;
+        color: white;
+        border-width: 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        font-family: "Candara";
+        font-size: 1.6em;
+        border-radius: 15px;
+
+
+    }
