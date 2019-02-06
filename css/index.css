@@ -1,10 +1,110 @@
-.texto1{
+.textos{
 
     margin: 3%;
     font-family: "Candara";
     text-align: center;
     color: rgb(74, 74, 75);
     font-size: 1.1em;
-    font-weight: lighter;
+    
 
     }
+
+    .textos h1{
+        font-weight: lighter;
+        font-size: 1.9em;
+        margin: 3%;
+    }
+
+    .textomini{
+
+        font-size: 0.92em !important;
+        text-align: center;
+        
+
+    }
+
+
+    
+
+    .barradeserviço{
+
+     width: 100%;
+    
+    background-color: white;
+    
+
+    }
+
+    .fotoserviçohome1{
+
+         width: 443px;
+        height: 250px;
+        background-image: url("../images/services-1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        
+        
+
+    }
+
+    .fotoserviçohome2{
+
+        width: 443px;
+       height: 250px;
+       background-image: url("../images/services-2.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       
+       
+   }
+
+   .fotoserviçohome3{
+
+    width: 443px;
+   height: 250px;
+   background-image: url("../images/services-3.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+   
+}
+
+    .serviçoshome{
+
+        border: 1px solid #7c7c7d;;
+        width: 28%;
+        height: 400px;
+        box-shadow: 1px 5px 8px #4a4a4b;
+        padding-bottom: 0px;
+        margin: 3em;
+        float: left;
+        
+    }
+
+
+    .servicoshome2{
+
+        border: 1px solid #7c7c7d;;
+        width: 28%;
+        height: 400px;
+        box-shadow: 1px 5px 8px #4a4a4b;
+        padding-bottom: 0px;
+        margin-top:3em;
+        float: left;
+        
+    }
+
+    .servicoshome3{
+
+        border: 1px solid #7c7c7d;;
+        width: 28%;
+        height: 400px;
+        box-shadow: 1px 5px 8px #4a4a4b;
+        padding-bottom: 0px;
+        margin-top: 3em;
+        margin-left: 3em;
+        float: left;
+        
+    }
+
