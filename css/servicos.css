@@ -7,7 +7,6 @@
     padding-bottom: 0px;
     margin-top: 10em;
     margin-left: 3em;
-    
      float: left;
     transition: 0.5s;
     
@@ -47,25 +46,34 @@
 
 
 
-  
-
 .textoservico{
 
-text-align: right;
+text-align: justify;
 font-family: "Candara";
 font-weight: lighter;
 font-size: 1.1em;
 color: #4a4a4b;
+margin: 15px;
+margin-top: 10px;
 
 
 }
 
-.textoservico h1{
+.tituloservico h1{
 
     text-align: center;
     font-family: "Candara";
     font-weight: lighter;
     font-size: 1.5em;
     color: #4a4a4b;
+    transition: 0.5s;
     
+    }
+
+    .tituloservico h1:hover{
+
+        color: rgb(92, 219, 188);
+        text-shadow: 1px 1px black;
+        cursor: pointer;
+
     }
