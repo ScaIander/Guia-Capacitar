@@ -1,6 +1,6 @@
-.textos{
+.texto1{
 
-margin-top: 150px;
+margin-top: 120px;
 margin-left: 6%;  
 margin-right: 8%;   
 font-family: "Candara";
@@ -12,8 +12,29 @@ color: #4a4a4b;
 
 }
 
-.textos h1{
+.texto1 h1{
 
     font-size: 1.8em;
 
 }
+
+.texto2{
+
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-left: 6%;  
+    margin-right: 8%;   
+    font-family: "Candara";
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: justify;
+    float: left;
+    color: #4a4a4b;
+    
+    }
+    
+    .texto2 h1{
+    
+        font-size: 1.8em;
+    
+    }
