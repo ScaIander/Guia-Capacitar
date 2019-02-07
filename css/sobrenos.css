@@ -1,0 +1,19 @@
+.textos{
+
+margin-top: 150px;
+margin-left: 6%;  
+margin-right: 8%;   
+font-family: "Candara";
+font-size: 1.2em;
+font-weight: bold;
+text-align: justify;
+float: left;
+color: #4a4a4b;
+
+}
+
+.textos h1{
+
+    font-size: 1.8em;
+
+}
