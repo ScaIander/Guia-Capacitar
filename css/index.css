@@ -1,4 +1,4 @@
-.textos{
+.texto1{
 
     margin: 3%;
     font-family: "Candara";
@@ -9,7 +9,9 @@
 
     }
 
-    .textos h1{
+
+
+    .texto1 h1{
         font-weight: lighter;
         font-size: 1.9em;
         margin: 3%;
@@ -45,6 +47,7 @@
 
         color: rgb(92, 219, 188);
         text-shadow: 1px 1px black;
+        cursor: pointer;
         
 
     }
@@ -221,3 +224,52 @@
 
 
     }
+
+    .botaocontato:hover{
+
+      background-color: #98e6d6;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      padding-left: 32px;
+      padding-right: 32px;
+      cursor: pointer;
+
+    }
+
+    .textovideo{
+
+        width: 47%;
+        height:400px;
+        float: left;
+        margin-left: 8%;
+        margin-top: 100px;
+        margin-right: 50px;
+
+    }
+
+
+    .texto2{
+
+        margin: 3%;
+        font-family: "Candara";
+        text-align: left;
+        color: rgb(74, 74, 75);
+        font-size: 1.1em;
+        
+        
+    
+        }
+    
+    
+    
+        .texto2 h1{
+            font-weight: bold;
+            font-size: 1.9em;
+            margin: 3%;
+        }
+
+       .video{
+
+        margin-top:70px;
+        
+       }
