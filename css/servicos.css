@@ -2,7 +2,7 @@
 
     border: 1px solid #7c7c7d;;
     width: 42%;
-    height: 300px;
+    height: 60%;
     box-shadow: 1px 5px 8px #4a4a4b;
     padding-bottom: 0px;
     margin-top: 10em;
@@ -24,7 +24,7 @@
 
     border: 1px solid #7c7c7d;;
     width: 42%;
-    height: 300px;
+    height: 60%;
     box-shadow: 1px 5px 8px #4a4a4b;
     padding-bottom: 0px;
     margin-top: 10em;
@@ -43,7 +43,6 @@
     
 
 }
-
 
 
 .textoservico{
@@ -70,10 +69,18 @@ margin-top: 10px;
     
     }
 
-    .tituloservico h1:hover{
+.tituloservico h1:hover{
 
         color: rgb(92, 219, 188);
         text-shadow: 1px 1px black;
         cursor: pointer;
 
+    }
+
+    .imagemservico{
+
+        width:45%;  
+        float: left; 
+        margin: 2%; 
+        margin-top: 5px;
     }
