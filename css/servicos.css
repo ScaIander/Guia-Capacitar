@@ -53,7 +53,7 @@ font-weight: lighter;
 font-size: 1.1em;
 color: #4a4a4b;
 margin: 15px;
-margin-top: 10px;
+
 
 
 }
@@ -65,11 +65,17 @@ margin-top: 10px;
     font-weight: lighter;
     font-size: 1.5em;
     color: #4a4a4b;
+    
+    
+    }
+
+.tituloservico h1 span{
+
     transition: 0.5s;
     
     }
 
-.tituloservico h1:hover{
+.tituloservico h1 span:hover{
 
         color: rgb(92, 219, 188);
         text-shadow: 1px 1px black;
